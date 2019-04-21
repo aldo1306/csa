@@ -1,0 +1,29 @@
+* {
+
+	padding: 0px;
+	margin: 0px;
+}
+
+
+body { 
+
+	text-decoration: none;
+	font-family: 'Raleway';
+    font-style: normal;
+    background-color: #f6f6f6;
+}
+
+body a{
+	text-decoration: none;
+	list-style: none;
+}
+
+body ul{
+	text-decoration: none;
+	list-style: none;
+}
+
+body li{
+	text-decoration: none;
+	list-style: none;
+}

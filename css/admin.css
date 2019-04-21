@@ -1,0 +1,59 @@
+header.search{
+	background-color: #023246;
+	color: #ffff;
+	font-family: 'Oswald';
+	font-style: normal;
+
+	
+}
+
+header.search article.titulo{
+	padding-left: 40px;
+	font-size:30px;
+}
+
+header.search article.buscador{
+	margin: auto;
+	width: 100%;
+
+}
+
+header.search article.buscador #button-menu {
+	padding-right: 10px;
+	cursor: pointer; 
+}
+
+header.search article.buscador div.search_bar{
+	width:100%;
+	padding:10px 7px 10px 7px;
+	box-sizing:border-box;
+	position: relative;
+}
+
+header.search article.buscador div.search_bar a {
+	position:absolute;
+	bottom:13px;
+	left:15px;
+	padding-left: 3px;
+	padding-right: 5px;
+	color: #000;
+	text-decoration:none;
+}
+
+header.search article.buscador div.search_bar input{
+	width: 90%;
+	height:30px;
+	border-radius: 50px;
+	border:none;
+	padding:0px 10px 0px 35px;
+	box-sizing:border-box;
+
+}
+
+header.search article.close{
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+}
+
+/*FIN DE CABECERA*/
